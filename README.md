@@ -1,5 +1,5 @@
 ### Languages and Tools:
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 ### Socials:
