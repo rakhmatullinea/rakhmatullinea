@@ -7,6 +7,7 @@
 
 ### Testing Documentation:
 * checklists
+* [test tasks](https://drive.google.com/drive/folders/1T973cQ8Hz6Grc4bdHPOV9oKBPh7DTmBh?usp=share_link "Тестовые задания, выполненные при поиске работы")
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/эдгар-рахматуллин-0537aa263/)
