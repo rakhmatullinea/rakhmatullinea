@@ -1,3 +1,6 @@
+### My CV
+[Link to my CV](https://hh.ru/resume/9bb8caffff01ce38ac0039ed1f324933424d75 "Ссылка на hh.ru")
+
 ### Languages and Tools:
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
