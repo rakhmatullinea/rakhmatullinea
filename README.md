@@ -13,6 +13,7 @@
 
 ### Testing Documentation:
 * [checklists](https://docs.google.com/spreadsheets/d/1aItpk5nL7cJ8hSx7U128sodfEt1WCUAKWX0lMboK1Jk/edit?usp=sharing "Google документ с чек-листами")
+* [test-cases](https://docs.google.com/spreadsheets/d/1_qsuRvG49j8HvjwZHEbP8mn1dWXzA3t_Tk5SQmRekPM/edit?usp=sharing "Google документ с тест-кейсами")
 * [test tasks](https://drive.google.com/drive/folders/1T973cQ8Hz6Grc4bdHPOV9oKBPh7DTmBh?usp=share_link "Тестовые задания, выполненные при поиске работы")
 
 ### Contact me:
