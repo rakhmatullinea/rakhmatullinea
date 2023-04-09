@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 ### Testing Documentation:
-* [checklists](https://github.com/rakhmatullinea/checklists.git "Репозиторий с чек-листами")
+* [checklists](https://docs.google.com/spreadsheets/d/1aItpk5nL7cJ8hSx7U128sodfEt1WCUAKWX0lMboK1Jk/edit?usp=sharing "Google документ с чек-листами")
 * [test tasks](https://drive.google.com/drive/folders/1T973cQ8Hz6Grc4bdHPOV9oKBPh7DTmBh?usp=share_link "Тестовые задания, выполненные при поиске работы")
 
 ### Contact me:
